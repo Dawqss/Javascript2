@@ -1,0 +1,12 @@
+body {
+	background: #7f8c8d;
+}
+
+h1 {
+	color: #1abc9c;
+	text-shadow: 4px 4px #34495e;
+	font-size: 160px;
+	text-align: center;
+	font-family: helvetica;
+	line-height: 250%;
+}
